@@ -27,7 +27,7 @@ Here is the story:
 - If you go back to your home while you are infected, you will infect your family and lose the game.
 - You have 10 sprayer to kill the surrounding viruses.
 
-![Image](https://lh3.googleusercontent.com/lkKdX_lZdqm_UJncXLjLGdnJnYy4KsQYKJHJW1fYOBcr9OuATr09H4McfuLXbNsdNlD9nC6mUHWE85-J0q6IhWOJxkRQgNk-mmhST5d_8-x3cYV8LVe9yu4SmtE0cEAL0PHeKoS3Dzt2evpukvCljgwRaPXEW63brbhluBE3YqmMGV8RzvsobGnoCdKDgrYg3Ijf-tFsgjFE9wjw5P8c6TEVeulLPYFgpaiq3UrDpWDtBoNtk5eEtEAzAkMy-83bvWwgz38RJ3naYZuO3RtM0v2ZONr8kKEdotkuzm0dhV8T07FxxIqEMyLSVTGki6W6dWRrTBvuQrnqauyW8dSKtp4V3Z90CWHSeHPWxx_CbwhHyO0SSmmfcSpQm-uY8AHBaoZwWL0yzC7r4-D5g_oAoW7BPCVpKVy1f6UA7F2lsN7oMMDpXBRjJb8HZoGf8nv8-yHvwfQE1eGXPZsds0eWKez9XVO5AW-RJuEPimQbw-rqQ7Y-vG11ComIOZhZYB7NMkDNcfn3dTsD6C5oppV_ZR9tEoSdE00MZOZayFSwt1lStuuYciMXuvAYk6ipWgtOHs7pgDIN7WYF07MvRjkLuBeGlDRDVbkLoOKcwfpRi185VdjFksBryHqoxg5dvgHeRZVPQBXVgDeb4zMzNidqY30GwLgmZEeYeHmjLo47T2pjgL7ayhwCjY2be1HX=w804-h907-no)
+![](assets/images/Cov-Game.PNG)
 
 You will be allowed to move in these days (10, 5, 1). you can move using **ARROWS** keys.
 You can use the sprayer with **SPACE** key
